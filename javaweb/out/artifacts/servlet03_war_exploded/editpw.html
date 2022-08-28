@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>修改密码</title>
+
+	</head>
+	<body>
+		<div id="editdiv">
+
+				<h1>修改密码</h1>
+				<hr>
+				<form action="/hometalk/editpw" method="post">
+
+					当前密码<input type="text"  id="userpassword" /><br>
+					新的密码<input type="text" name="userpassword" id="usernewpassword" /><br>
+					确认密码<input type="text"  id="userpassword" /><br>
+					<input type ="hidden" name="userid" value="">
+					<input type="button" id="submit" value="确认修改" /><br>
+				</form>
+
+		</div>
+
+	</body>
+</html>

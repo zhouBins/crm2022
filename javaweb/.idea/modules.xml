@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hometalk/hometalk.iml" filepath="$PROJECT_DIR$/hometalk/hometalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet01/hometalkservlet.iml" filepath="$PROJECT_DIR$/servlet01/hometalkservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet02/servlet02.iml" filepath="$PROJECT_DIR$/servlet02/servlet02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet03/servlet03.iml" filepath="$PROJECT_DIR$/servlet03/servlet03.iml" />
+    </modules>
+  </component>
+</project>
